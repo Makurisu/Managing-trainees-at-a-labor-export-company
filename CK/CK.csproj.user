@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="changePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="contractRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="coursesRegisted.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="coursesRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EventForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="infoStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main_Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Notice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="viewContractRegisted.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewCoursesGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewHopDongHocVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewKhoaHocHocVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detailStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Alert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
